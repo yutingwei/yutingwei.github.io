@@ -1,0 +1,76 @@
+# jemdoc: menu{MENU}{index.html}
+
+~~~
+{}{raw}
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-150369356-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-150369356-1');
+</script>
+~~~
+
+
+
+
+= Yuting Wei
+
+~~~
+{}{img_left}{images/profile2.jpeg}{Thanks to TBSI!}{300}{250}{}
+
+Assistant Professor \n
+[http://www.stat.cmu.edu/  CMU Statistics Department] \n
+
+\n
+ytwei (at) cmu (dot) edu \n
+Statistics \& Data Science,\n
+Baker Hall 229J, \n
+Carnegie Mellon University\n
+Pittsburgh, PA 15213
+
+~~~
+
+
+
+== About Me
+
+I am currently an Assistant Professor in the [http://www.stat.cmu.edu/ Department of Statistics] at [https://www.cmu.edu/ Carnegie Mellon University]. 
+Before joining Carnegie Mellon University, I spent a wonderful year as a Stein's Fellow / Lecturer at [https://statistics.stanford.edu/ Stanford Statistics Department].
+I got my Ph.D. in Statistics at [http://statistics.berkeley.edu/ Berkeley Statistics Department] advised by two amazing supervisors [https://www.stat.berkeley.edu/~aditya/ Aditya Guntuboyina] and [https://people.eecs.berkeley.edu/~wainwrig/ Martin Wainwright]; I was also associated with the Berkeley Artificial Intelligence Research group ([http://bair.berkeley.edu/ BAIR]).
+#Prior to that, I was an undergraduate in [http://www.math.pku.edu.cn/en School of Mathematical Sciences] at [http://www.pku.edu.cn/ Peking University] in China. 
+
+My research interests lie broadly in the span of statistics, optimization and machine learning. 
+More specifically, I have been developing methods appropriate for valid inference with high dimensional and structured data. I am also interested in understanding the interplay between statistical accuracy and computational properties. Recently, I got excited about exploring genetics data.
+
+#In particular, I have been working on problems with shape constraints, estimation/hypothesis testing in high dimensional setting and theoretical analysis of boosting methods.
+
+Here is a current copy of my [documents/resume/Resume_Yuting_Wei.pdf CV].
+
+
+== Openings 
+
+I am currently looking for *students and postdocs* interested in high dimensional statistics and machine learning. Please email a CV to apply.
+
+
+
+== Education
+
+- Stanford University, Stein Fellow / Lecturer, 2018 - 2019
+
+- University of California, Berkeley: Ph.D. in Statistics, 2013 - 2018
+
+- Peking University: Bachelor of Science (B.S.) Statistics, 2009 - 2013
+
+- Peking University: Bachelor of Arts (B.A.) Economics, 2010 - 2013
+
+
+
+== Contact 
+
+[https://scholar.google.com/citations?user=fsbXdAYAAAAJ&hl=en Google Scholar Profile]
+
+[https://www.linkedin.com/in/yuting-wei-32830a7b LinkedIn Profile]
+

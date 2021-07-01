@@ -1,0 +1,150 @@
+# jemdoc: menu{MENU}{publications.html}
+
+~~~
+{}{raw}
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-150369356-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-150369356-1');
+</script>
+~~~
+
+= Research 
+
+== Research Interests
+
+- high-dimensional and non-parametric statistics
+- statistical inference
+- reinforcement learning
+- bioinformatics and statistical genetics
+
+
+
+== Preprints
+
+- [documents/paper/EntropyGame.pdf Fast policy extragradient methods for competitive games with entropy regularization.] \n
+  -- Shicong Cen, Yuting Wei, Yuejie Chi
+
+
+- [documents/paper/LinearQ_Revisit.pdf Sample-efficient reinforcement learning is feasible for linearly realizable MDPs with limited revisiting.] \n
+  -- Gen Li, Yuxin Chen, Yuejie Chi, Yuantao Gu, Yuting Wei
+
+- [documents/paper/lasso-general.pdf The Lasso with general Gaussian designs with applications to hypothesis testing.] \n
+  -- Michael Celentano, Andrea Montanari, Yuting Wei (alpha-order) [documents/slides/lasso.pdf (slides)]
+
+- [https://arxiv.org/abs/2012.02717 Derandomizing Knockoffs.]\n
+  -- Zhimei Ren, Yuting Wei, Emmanuel Candès
+  -- Major revision, Journal of the American Statistical Association
+
+- [https://arxiv.org/abs/2001.04620 Tackling small eigen-gaps: Fine-grained eigenvector estimation and inference under heteroscedastic noise.] \n
+    -- Chen Cheng, Yuting Wei, Yuxin Chen
+
+
+== Publications: Theory and Methodology
+
+- [documents/paper/SoftmaxPG_LB.pdf Softmax policy gradient methods can take exponential time to converge.]\n
+  -- Gen Li, Yuting Wei, Yuejie Chi, Yuantao Gu, Yuxin Chen
+  -- Accepted in part to Conference on Learning Theory (COLT), 2021
+
+- [https://arxiv.org/abs/2102.06548 Is Q-Learning minimax optimal? A tight sample complexity analysis.] \n
+  -- Gen Li, Changxiao Cai, Yuxin Chen, Yuantao Gu, Yuting Wei, Yuejie Chi
+  -- Accepted in part to ICML, 2021
+
+- [https://www.pnas.org/content/118/10/e2024383118 Integration and transfer learning of single-cell transcriptomes via cFIT.] \n
+  -- Minshi Peng, Yue Li, Brie Wamsley, Yuting Wei, Kathryn Roeder
+  -- Proceedings of the National Academy of Sciences (PNAS), 2021
+
+- [https://arxiv.org/abs/2007.06558 Fast global convergence of natural policy gradient methods with entropy regularization.] \n
+  -- Shicong Cen, Chen Cheng, Yuxin Chen, Yuting Wei, Yuejie Chi
+  -- Accepted to Operations Research [https://users.ece.cmu.edu/~yuejiec/papers/EntropyNPG_slides.pdf (slides)]
+
+
+- [documents/paper/uniform.pdf Uniform consistency of cross validation estimators for high-dimensional ridge regression.] \n
+-- Pratik Patil, Yuting Wei, Alessandro Rinaldo, Ryan Tibshirani
+-- Accepted in part to AISTATS, oral presentation, 2021
+
+- [https://arxiv.org/abs/2012.00714 Debiasing evaluations that are biased by evaluations.] \n
+  -- Jingyan Wang, Ivan Stelmakh, Yuting Wei, Nihar B. Shah
+  -- Accepted in part to AAAI Conference on Artificial Intelligence, 2021
+
+
+- [https://arxiv.org/abs/2005.12900 Breaking the sample size barrier in model-based reinforcement learning with a generative model.] \n
+  -- Gen Li, Yuting Wei, Yuejie Chi, Yuantao Gu, Yuxin Chen
+  -- Accepted in part to NeurIPS, 2020 [documents/slides/model-based-rl-slides.pdf (slides)]
+
+
+- [https://arxiv.org/abs/2006.03041 Sample complexity of asynchronous Q-learning: sharper analysis and variance reduction.] \n
+  -- Gen Li, Yuting Wei, Yuejie Chi, Yuantao Gu, Yuxin Chen
+  -- Accepted in part to NeurIPS, 2020 [http://www.princeton.edu/~yc5/slides/Async_Qlearning_slides.pdf (slides)]
+
+
+
+- [https://arxiv.org/abs/2010.01289 Randomized tests for high-dimensional regression: A more efficient and powerful solution.] \n
+-- Yue Li, Ilmun Kim, Yuting Wei
+-- Accepted in part to NeurIPS, 2020
+
+- [https://arxiv.org/abs/2006.16384 Sharp statistical guarantees for adversarially robust Gaussian classification.] \n
+  -- Chen Dan, Yuting Wei, Pradeep Ravikumar
+  -- International Conference on Machine Learning (ICML), 2020
+
+
+- [https://arxiv.org/abs/1803.07763 From Gauss to Kolmogorov: Localized measures of complexity for ellipses.] \n
+    -- Yuting Wei, Billy Fang and Martin Wainwright
+    -- Electronic Journal of Statistics, 2020
+
+
+- [https://arxiv.org/abs/1712.00711 The local geometry of testing in ellipses: Tight control via localized Kolmogorov widths.]\n
+    -- Yuting Wei and Martin Wainwright
+    -- IEEE Transactions on Information Theory, 2020
+
+
+- [documents/paper/early-stopping.pdf Early stopping for kernel boosting algorithms: A general analysis with localized complexities.] \n
+    -- Yuting Wei∗, Fanny Yang∗ and Martin Wainwright
+    -- Neural Information Processing Systems (NIPS), spotlight presentation, 2017
+    -- Full version, IEEE Transactions on Information Theory, 2019
+
+
+- [documents/paper/cone2018.pdf The geometry of hypothesis testing over convex cones: Generalized likelihood tests and minimax radii.] \n
+    -- Yuting Wei, Martin Wainwright and Adityanand Guntuboyina
+    -- The Annals of Statistics, 2019
+
+- [https://arxiv.org/abs/1508.03744 Adaptive estimation of planar convex sets.] \n
+	-- Tony Cai, Adityanand Guntuboyina and Yuting Wei (alpha-order). 
+	-- The Annals of Statistics, 2018
+
+- [http://ieeexplore.ieee.org/document/7541786/ Sharp minimax bounds for testing discrete
+monotone distributions.] \n
+    -- Yuting Wei and Martin Wainwright
+    -- International Symposium on Information Theory, 2016
+
+
+
+== Publications: Application
+
+- [https://www.biorxiv.org/content/10.1101/2021.02.06.430067v1 Cell type hierarchy reconstruction via reconciliation of multi-resolution cluster tree.] \n
+  -- Minshi Peng, Brie Wamsley, Andrew Elkins, Daniel M Geschwind, Yuting Wei, Kathryn Roeder
+  -- Accepted to Nucleic Acids Research, 2021
+
+
+- [http://www.sciencedirect.com/science/article/pii/S0022175914000532 MHC binding prediction with KernelRLSpan and its variations.]
+    -- Wen-Jun Shen∗, Yuting Wei∗, Xin Guo∗, Stephen Smale, Hau-San Wong and Shuai Cheng Li
+  -- Journal of Immunological Methods, 2014
+
+
+
+== Thesis
+
+- Thesis: A geometric perspective on some topics in statistical learning
+- Advisor: Martin Wainwright, Adityanand Guntuboyina
+
+
+
+
+
+
+
+
