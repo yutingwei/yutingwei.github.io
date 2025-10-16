@@ -1,0 +1,267 @@
+# jemdoc: menu{MENU}{publications-category.html}
+
+~~~
+{}{raw}
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-7Y30K6NVVF"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-7Y30K6NVVF');
+</script>
+~~~
+
+= Research by Topic
+
+
+== High Dimensional Statistics and Learning 
+
+- [https://arxiv.org/abs/2506.24042 Faster Diffusion Models via Higher-Order Approximation.] 
+-- Gen Li∗, Yuchen Zhou∗, Yuting Wei, Yuxin Chen (∗=equal contribution)
+
+
+- [https://arxiv.org/abs/2506.05200 Transformers meet in-context learning: A universal approximation theory.]
+-- Gen Li∗, Yuchen Jiao∗, Yu Huang, Yuting Wei, Yuxin Chen 
+
+- [https://arxiv.org/abs/2504.05300 Dimension-free convergence of diffusion models for approximate Gaussian mixtures.]
+-- Gen Li∗, Changxiao Cai∗, Yuting Wei 
+
+
+- [https://arxiv.org/abs/2410.18784 Denoising diffusion probabilistic models are optimally adaptive to unknown low dimensionality.]
+-- Zhihan Huang, Yuting Wei, Yuxin Chen
+
+
+- [https://arxiv.org/abs/2401.03923 A non-asymptotic distributional theory of approximate message passing for sparse and robust regression.] \n
+-- Gen Li, Yuting Wei
+-- *Paper awarded for 2024 ICSA Junior Researcher Award*
+
+
+- [https://arxiv.org/abs/2410.04760 Stochastic Runge-Kutta methods: Provable acceleration of diffusion models.]
+-- Yuchen Wu, Yuxin Chen, Yuting Wei
+
+
+- [documents/paper/DiffusionODE.pdf A sharp convergence theory for the probability flow ODEs of diffusion models.]
+-- Gen Li, Yuting Wei, Yuejie Chi, Yuxin Chen
+
+
+- [https://arxiv.org/abs/2402.07802 Towards a mathematical theory for consistency training in diffusion models.] \n
+-- Gen Li∗, Zhihan Huang∗, Yuting Wei  
+-- AISTATS, 2025
+
+- [https://arxiv.org/abs/2403.01639 Theoretical insights for diffusion guidance: A case study for Gaussian mixture models.] \n
+-- Yuchen Wu, Minshuo Chen, Zihao Li, Mengdi Wang, Yuting Wei 
+-- Short version accepted to ICML, 2024
+
+- [https://arxiv.org/abs/2403.03852 Accelerating convergence of score-based diffusion models, provably.] \n
+-- Gen Li∗, Yu Huang∗, Timofey Efimov, Yuting Wei, Yuejie Chi, Yuxin Chen  
+-- ICML, 2024
+
+
+
+- [https://arxiv.org/abs/2306.09251 Towards faster non-asymptotic convergence for diffusion-based generative models.] \n
+-- Gen Li, Yuting Wei, Yuxin Chen, Yuejie Chi
+
+
+- [documents/paper/Yuting_AMP_PNAS_full.pdf Approximate message passing from random initialization with applications to Z2 synchronization.] \n
+-- Gen Li, Wei Fan, Yuting Wei
+-- Proceedings of the National Academy of Sciences (PNAS), 2023
+
+- [https://arxiv.org/abs/2208.03313 A non-asymptotic framework for approximate message passing in spiked models.] \n
+-- Gen Li, Yuting Wei
+
+- [https://arxiv.org/abs/2205.12937 Mitigating multiple descents: A model-agnostic framework for risk monotonization.] \n
+-- Pratik Patil, Arun Kumar Kuchibhotla, Yuting Wei, Alessandro Rinaldo
+
+- [https://arxiv.org/abs/2110.09502 Minimum L1 interpolators: Precise asymptotics and multiple descent.] \n
+-- Yue Li, Yuting Wei
+
+
+- [documents/paper/lasso-general.pdf The Lasso with general Gaussian designs with applications to hypothesis testing.] \n
+  -- Michael Celentano, Andrea Montanari, Yuting Wei (alphabetical order) [documents/slides/lasso.pdf (slides)]
+  -- Annals of Statistics, 2023
+
+
+- [documents/paper/uniform.pdf Uniform consistency of cross validation estimators for high-dimensional ridge regression.] \n
+-- Pratik Patil, Yuting Wei, Alessandro Rinaldo, Ryan Tibshirani
+-- AISTATS, oral presentation, 2021
+
+- [https://arxiv.org/abs/2006.16384 Sharp statistical guarantees for adversarially robust Gaussian classification.] \n
+  -- Chen Dan, Yuting Wei, Pradeep Ravikumar
+  -- ICML, 2020
+
+- [documents/paper/early-stopping.pdf Early stopping for kernel boosting algorithms: A general analysis with localized complexities.] \n
+    -- Yuting Wei∗, Fanny Yang∗ and Martin Wainwright  
+    -- Short version accepted to NeurIPS, spotlight presentation, 2017
+    -- IEEE Transactions on Information Theory, 2019
+
+
+
+
+== Reinforcement Learning and Strategic Games
+
+- [https://arxiv.org/abs/2507.14444 Statistical and Algorithmic Foundations of Reinforcement Learning.] 
+-- Yuejie Chi, Yuxin Chen, Yuting Wei
+
+
+- [https://arxiv.org/abs/2505.03710 Actor-critics can achieve optimal sample efficiency.]
+-- Kevin Tan∗, Wei Fan∗, Yuting Wei 
+
+
+- [https://arxiv.org/abs/2502.13822 Uncertainty quantification for Markov chains with application to temporal difference learning.]
+-- Weichen Wu, Yuting Wei, Alessandro Rinaldo
+
+
+- [https://arxiv.org/abs/2410.16106 Statistical inference for temporal difference learning with linear function approximation.]
+-- Weichen Wu, Gen Li, Yuting Wei, Alessandro Rinaldo
+
+
+- [documents/paper/Hybrid_RL.pdf Hybrid reinforcement learning breaks sample size barriers in linear MDPs.]
+-- Kevin Tan, Wei Fan, and Yuting Wei
+-- NeurIPS, 2024
+
+- [https://arxiv.org/abs/2311.00201 Federated Natural Policy Gradient and Actor Critic Methods for Multi-task Reinforcement Learning.]
+-- Tong Yang, Shicong Cen, Yuting Wei, Yuxin Chen, Yuejie Chi
+-- NeurIPS, 2024
+
+- [https://arxiv.org/abs/2204.05275 Settling the sample complexity of model-based offline reinforcement learning.] \n
+-- Gen Li, Laixi Shi, Yuxin Chen, Yuejie Chi, Yuting Wei
+-- Annals of Statistics, 2024
+
+- [https://arxiv.org/abs/2305.19001  High-probability sample complexities for policy evaluation with linear function approximation.]
+-- Gen Li∗, Weichen Wu∗, Yuejie Chi, Cong Ma, Alessandro Rinaldo, Yuting Wei
+-- IEEE Transactions on Information Theory, 2024
+
+
+- [https://arxiv.org/abs/2305.16589 The curious price of distributional robustness in reinforcement learning with a generative model.]\n
+-- Laixi Shi, Gen Li, Yuting Wei, Yuxin Chen, Matthieu Geist, Yuejie Chi
+-- Short version accepted to NeurIPS, 2023
+
+
+- [https://arxiv.org/abs/2102.06548 Is Q-Learning minimax optimal? A tight sample complexity analysis.] \n
+  -- Gen Li, Changxiao Cai, Yuxin Chen, Yuting Wei, Yuejie Chi
+  -- Short version accepted to ICML, 2021
+  -- Operations Research, 2024
+
+- [https://arxiv.org/abs/2005.12900 Breaking the sample size barrier in model-based reinforcement learning with a generative model.] \n
+  -- Gen Li, Yuting Wei, Yuejie Chi, Yuxin Chen
+  -- Short version accepted to NeurIPS, 2020 [documents/slides/model-based-rl-slides.pdf (slides)]
+  -- Operations Research, 2024
+
+- [documents/paper/Markov_games_simulator.pdf Minimax-optimal multi-agent RL in zero-sum Markov games with a generative model.] \n
+-- Gen Li, Yuejie Chi, Yuting Wei, Yuxin Chen
+-- NeurIPS, oral presentation, 2023
+
+
+- [documents/paper/EntropyGame.pdf Fast policy extragradient methods for competitive games with entropy regularization.] \n
+  -- Shicong Cen, Yuting Wei, Yuejie Chi
+  -- Short version accepted to NeurIPS, 2021
+  -- Journal of Machine Learning Research, 2024
+
+
+- [https://arxiv.org/abs/2202.13890 Pessimistic Q-Learning for offline reinforcement learning: Towards optimal sample complexity.] \n
+-- Laixi Shi, Gen Li, Yuting Wei, Yuxin Chen, Yuejie Chi
+-- ICML, 2022
+
+
+- [documents/paper/SoftmaxPG_LB.pdf Softmax policy gradient methods can take exponential time to converge.]\n
+  -- Gen Li, Yuting Wei, Yuejie Chi, Yuxin Chen
+  -- Short version accepted to Conference on Learning Theory (COLT), 2021
+  -- Mathematical Programming, 2023
+
+
+- [https://arxiv.org/abs/2105.08024 Sample-efficient reinforcement learning is feasible for linearly realizable MDPs with limited revisiting.] \n
+  -- Gen Li, Yuxin Chen, Yuejie Chi, Yuantao Gu, Yuting Wei
+  --  NeurIPS, 2021 [documents/slides/Linear_realizability_slides.pdf (slides)]
+
+
+- [https://arxiv.org/abs/2007.06558 Fast global convergence of natural policy gradient methods with entropy regularization.] \n
+  -- Shicong Cen, Chen Cheng, Yuxin Chen, Yuting Wei, Yuejie Chi
+  -- Operations Research, 2022 *(INFORMS George Nicholson award finalist)*
+
+
+- [https://arxiv.org/abs/2006.03041 Sample complexity of asynchronous Q-learning: sharper analysis and variance reduction.] \n
+  -- Gen Li, Yuting Wei, Yuejie Chi, Yuantao Gu, Yuxin Chen
+  -- Short version accepted to NeurIPS, 2020 [http://www.princeton.edu/~yc5/slides/Async_Qlearning_slides.pdf (slides)]
+  -- IEEE Transactions on Information Theory, 2021
+
+
+== Valid and Efficient Statistical Inference 
+
+- [https://arxiv.org/abs/2012.02717 Derandomizing Knockoffs.]\n
+  -- Zhimei Ren, Yuting Wei, Emmanuel Candès
+  -- Journal of the American Statistical Association, 2023 [https://zhimeir.github.io/adaptiveKnockoffs/ (code)]
+
+
+- [https://arxiv.org/abs/2001.04620 Tackling small eigen-gaps: Fine-grained eigenvector estimation and inference under heteroscedastic noise.] \n
+    -- Chen Cheng, Yuting Wei, Yuxin Chen
+    -- IEEE Transactions on Information Theory, 2021
+
+- [https://arxiv.org/abs/2010.01289 Randomized tests for high-dimensional regression: A more efficient and powerful solution.] \n
+-- Yue Li, Ilmun Kim, Yuting Wei
+-- NeurIPS, 2020
+
+
+- [documents/paper/cone2018.pdf The geometry of hypothesis testing over convex cones: Generalized likelihood tests and minimax radii.] \n
+    -- Yuting Wei, Martin Wainwright and Adityanand Guntuboyina
+    -- The Annals of Statistics, 2019
+
+- [https://arxiv.org/abs/1803.07763 From Gauss to Kolmogorov: Localized measures of complexity for ellipses.] \n
+    -- Yuting Wei, Billy Fang and Martin Wainwright
+    -- Electronic Journal of Statistics, 2020
+
+
+- [https://arxiv.org/abs/1712.00711 The local geometry of testing in ellipses: Tight control via localized Kolmogorov widths.]\n
+    -- Yuting Wei and Martin Wainwright
+    -- IEEE Transactions on Information Theory, 2020
+
+
+
+== Shape Constrained Inference 
+
+
+- [https://arxiv.org/abs/2012.00714 Debiasing evaluations that are biased by evaluations.] \n
+  -- Jingyan Wang, Ivan Stelmakh, Yuting Wei, Nihar B. Shah
+  -- Short version accepted to AAAI Conference on Artificial Intelligence, 2021
+
+- [documents/paper/cone2018.pdf The geometry of hypothesis testing over convex cones: Generalized likelihood tests and minimax radii.] \n
+    -- Yuting Wei, Martin Wainwright and Adityanand Guntuboyina
+    -- The Annals of Statistics, 2019
+
+- [https://arxiv.org/abs/1508.03744 Adaptive estimation of planar convex sets.] \n
+  -- Tony Cai, Adityanand Guntuboyina and Yuting Wei (alphabetical order). 
+  -- The Annals of Statistics, 2018
+
+- [http://ieeexplore.ieee.org/document/7541786/ Sharp minimax bounds for testing discrete
+monotone distributions.] \n
+    -- Yuting Wei and Martin Wainwright
+    -- International Symposium on Information Theory (ISIT), 2016
+
+
+
+
+== Applications in Bioinformatics and Genomics 
+
+- [https://www.biorxiv.org/content/10.1101/2025.09.12.675662v1.abstract Predicting the unseen: a diffusion-based debiasing framework for transcriptional response prediction at single-cell resolution.]
+-- Ergan Shang, Yuting Wei, Kathryn Roeder
+
+- [https://www.pnas.org/content/118/10/e2024383118 Integration and transfer learning of single-cell transcriptomes via cFIT.] \n
+  -- Minshi Peng, Yue Li, Brie Wamsley, Yuting Wei, Kathryn Roeder
+  -- Proceedings of the National Academy of Sciences (PNAS), 2021 [https://github.com/pengminshi/cFIT, (code)]
+
+
+- [https://www.biorxiv.org/content/10.1101/2021.02.06.430067v1 Cell type hierarchy reconstruction via reconciliation of multi-resolution cluster tree.] \n
+  -- Minshi Peng, Brie Wamsley, Andrew Elkins, Daniel M Geschwind, Yuting Wei, Kathryn Roeder
+  -- Nucleic Acids Research, 2021 [https://github.com/pengminshi/MRtree (code)]
+
+
+- [http://www.sciencedirect.com/science/article/pii/S0022175914000532 MHC binding prediction with KernelRLSpan and its variations.]
+    -- Wen-Jun Shen∗, Yuting Wei∗, Xin Guo∗, Stephen Smale, Hau-San Wong and Shuai Cheng Li  
+  -- Journal of Immunological Methods, 2014
+
+
+
+
+
+
