@@ -1,0 +1,49 @@
+# jemdoc: menu{MENU}{group.html}
+
+~~~
+{}{raw}
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-7Y30K6NVVF"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-7Y30K6NVVF');
+</script>
+~~~
+
+== PhD students and postdocs
+
+== Current
+
+- [https://daniildmitriev.github.io/ Daniil Dmitriev]~~ Postdoc
+
+- [https://weif2001.github.io/ Wei Fan]~~ Ph.D. at UPenn
+
+- [https://yuhuang42.org/ Yu Huang]~~ Ph.D. at UPenn, co-advised with Yuxin Chen
+
+- [https://scholar.google.com/citations?user=_nDeOvUAAAAJ&hl=en Zhihan Huang]~~ Ph.D. at UPenn, co-advised with Yuxin Chen
+
+- [https://statistics.wharton.upenn.edu/profile/zhanranl/ Zhanran Lin]~~ Ph.D. at UPenn, co-advised with Yuxin Chen and Zhimei Ren
+
+- [https://hetankevin.github.io/ Kevin Tan]~~ Ph.D. at UPenn, co-advised with Giles Hooker
+
+
+
+== Alumni
+
+- [https://wuyc0114.github.io/ Yuchen Wu]~~ Department Postdoc, Assistant Professor of Operations Research and Information Engineering, Cornell 
+
+- [https://scholar.google.com/citations?user=8qUwFl4AAAAJ&hl=en Weichen Wu]~~ Ph.D. 2024, The Voleon Group
+
+- [https://scholar.google.com/citations?user=K59VclwAAAAJ&hl=en Hong Hu]~~ Postdoc, Assistant Professor of Statistics & Electrical Engineering, Washington University in St. Louis
+
+- [https://ligen12.github.io/ Gen Li]~~ Postdoc, Assistant Professor of Statistics, Chinese University of Hong Kong
+
+- [https://yuelicmu.github.io/ Yue Li]~~
+   Ph.D. 2022, Hudson River Trading
+
+- [https://www.linkedin.com/in/minshi-peng-25a01ab7/ Minshi Peng]~~
+   Ph.D. 2021, Amazon
+
